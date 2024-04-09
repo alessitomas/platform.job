@@ -40,10 +40,10 @@ Este repositório contém os microserviços que compõem a Plataforma 24, uma ap
 
   [Repositório no GitHub](https://github.com/alessitomas/platform.24.store.account-resource)
 
-- **platform.24.store.auth-gateway**: Gateway para centralizar e rotear as requisições relacionadas à autenticação.
+- **platform.24.store.gateway**: Gateway para centralizar e rotear as requisições relacionadas à autenticação.
 
-  [Repositório no GitHub](https://github.com/alessitomas/platform.24.store.auth-gateway)
+  [Repositório no GitHub](https://github.com/alessitomas/platform.24.store.gateway)
 
-- **platform.24.store.auth-discovery**: Serviço de descoberta para gerenciar e registrar instâncias dos serviços de autenticação.
+- **platform.24.store.discovery**: Serviço de descoberta para gerenciar e registrar instâncias dos serviços de autenticação.
 
-  [Repositório no GitHub](https://github.com/alessitomas/platform.24.store.auth-discovery)
+  [Repositório no GitHub](https://github.com/alessitomas/platform.24.store.discovery)
