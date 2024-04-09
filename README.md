@@ -4,46 +4,40 @@ Este repositório contém os microserviços que compõem a Plataforma 24, uma ap
 
 ## Microserviços
 
-- **platform.24.store.docker-api**: Este microserviço é responsável por gerenciar as operações relacionadas ao Docker na plataforma.
+### platform.24.store.docker-api
+Este microserviço é responsável por gerenciar as operações relacionadas ao Docker na plataforma.
 
-  [Repositório no GitHub](https://github.com/alessitomas/platform.24.store.docker-api)
+- [Repositório no GitHub](https://github.com/alessitomas/platform.24.store.docker-api)
 
-- **platform.24.store.inscricao**: Microserviço para lidar com processos de inscrição de usuários na plataforma.
+### platform.24.store.inscricao
+Microserviço para lidar com processos de inscrição de usuários na plataforma.
 
-  [Repositório no GitHub](https://github.com/alessitomas/platform.24.store.inscricao)
+- [Repositório no GitHub](https://github.com/alessitomas/platform.24.store.inscricao)
+- [Documentação](http://localhost:8080/inscricoes/swagger-ui/index.html)
 
-- **platform.24.store.inscricao-resource**: Recursos para o microserviço de inscrição, incluindo APIs e endpoints.
+### platform.24.store.job
+Microserviço responsável pela criação de vagas de emprego.
 
-  [Repositório no GitHub](https://github.com/alessitomas/platform.24.store.inscricao-resource)
+- [Repositório no GitHub](https://github.com/alessitomas/platform.24.store.job)
 
-- **platform.24.store.job**: Microserviço responsável pela criação de vagas de emprego.
+### platform.24.store.auth
+Serviço de autenticação e autorização para os usuários da plataforma.
 
-  [Repositório no GitHub](https://github.com/alessitomas/platform.24.store.job)
+- [Repositório no GitHub](https://github.com/alessitomas/platform.24.store.auth)
+- [Documentação](http://localhost:8080/auth/swagger-ui/index.html)
 
-- **platform.24.store.job-resource**: Recursos relacionados às tarefas e processos do microserviço de jobs.
+### platform.24.store.account
+Gerenciamento de contas de usuários na plataforma.
 
-  [Repositório no GitHub](https://github.com/alessitomas/platform.24.store.job-resource)
+- [Repositório no GitHub](https://github.com/alessitomas/platform.24.store.account)
+- [Documentação](http://localhost:8080/accounts/swagger-ui/index.html)
 
-- **platform.24.store.auth**: Serviço de autenticação e autorização para os usuários da plataforma.
+### platform.24.store.gateway
+Gateway para centralizar e rotear as requisições relacionadas à autenticação.
 
-  [Repositório no GitHub](https://github.com/alessitomas/platform.24.store.auth)
+- [Repositório no GitHub](https://github.com/alessitomas/platform.24.store.gateway)
 
-- **platform.24.store.auth-resource**: Recursos de autenticação e autorização, incluindo endpoints e middlewares.
+### platform.24.store.discovery
+Serviço de descoberta para gerenciar e registrar instâncias dos serviços de autenticação.
 
-  [Repositório no GitHub](https://github.com/alessitomas/platform.24.store.auth-resource)
-
-- **platform.24.store.account**: Gerenciamento de contas de usuários na plataforma.
-
-  [Repositório no GitHub](https://github.com/alessitomas/platform.24.store.account)
-
-- **platform.24.store.account-resource**: Recursos relacionados às contas de usuários, como endpoints de API.
-
-  [Repositório no GitHub](https://github.com/alessitomas/platform.24.store.account-resource)
-
-- **platform.24.store.gateway**: Gateway para centralizar e rotear as requisições relacionadas à autenticação.
-
-  [Repositório no GitHub](https://github.com/alessitomas/platform.24.store.gateway)
-
-- **platform.24.store.discovery**: Serviço de descoberta para gerenciar e registrar instâncias dos serviços de autenticação.
-
-  [Repositório no GitHub](https://github.com/alessitomas/platform.24.store.discovery)
+- [Repositório no GitHub](https://github.com/alessitomas/platform.24.store.discovery)
