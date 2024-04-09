@@ -16,7 +16,7 @@ Este repositório contém os microserviços que compõem a Plataforma 24, uma ap
 
   [Repositório no GitHub](https://github.com/alessitomas/platform.24.store.inscricao-resource)
 
-- **platform.24.store.job**: Microserviço responsável pelo agendamento e execução de tarefas na plataforma.
+- **platform.24.store.job**: Microserviço responsável pela criação de vagas de emprego.
 
   [Repositório no GitHub](https://github.com/alessitomas/platform.24.store.job)
 
