@@ -28,8 +28,8 @@ doc: http://localhost:8080/auth/swagger-ui/index.html
 
 doc: http://localhost:8080/accounts/swagger-ui/index.html
 
-- platform.24.store.auth-gateway: [GitHub](https://github.com/alessitomas/platform.24.store.auth-gateway)
-- platform.24.store.auth-discovery: [GitHub](https://github.com/alessitomas/platform.24.store.discovery)
+- platform.24.store.gateway: [GitHub](https://github.com/alessitomas/platform.24.store.auth-gateway)
+- platform.24.store.discovery: [GitHub](https://github.com/alessitomas/platform.24.store.discovery)
 - platform.24.store.ops: [GitHub](https://github.com/alessitomas/platform.24.store.ops)
 
 
