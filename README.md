@@ -33,3 +33,10 @@ doc: http://localhost:8080/accounts/swagger-ui/index.html
 - platform.24.store.ops: [GitHub](https://github.com/alessitomas/platform.24.store.ops)
 
 
+
+## Apresentação
+
+
+- [https://www.canva.com/design/DAGGmmPUQ1s/BG_4VmOA-_D-RpdRkuhCaQ/](https://www.canva.com/design/DAGGmmPUQ1s/BG_4VmOA-_D-RpdRkuhCaQ/edit?utm_content=DAGGmmPUQ1s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
